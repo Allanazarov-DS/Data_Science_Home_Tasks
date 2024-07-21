@@ -66,6 +66,6 @@ Ushbu loyiha MIT litsenziyasi ostida tarqatiladi. Batafsil ma'lumot uchun [LICEN
 Agar sizda biron bir savol yoki taklif bo'lsa, iltimos quyidagi manzilga murojaat qiling:
 - Email: uznetdev@example.com
 - GitHub Issues: [Issues bo'limi](https://github.com/Allanazarov-DS/Data_Science_Home_Tasks/issues)
-- Telegram: [UZNet_Dev](https://t.me/Sardor_Allanazarov)
+- Telegram: [Sardor_Allanazarov](https://t.me/Sardor_Allanazarov)
 
 Loyihaga qiziqishingiz uchun rahmat!
