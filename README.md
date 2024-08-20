@@ -10,7 +10,6 @@ Ushbu repository quyidagi maqsadlarga ega:
 - Statistik tahlillar va ma'lumotlar vizualizatsiyasi bo'yicha amaliy tajribaga ega bo'lish
 - Ma'lumotlarni qayta ishlash va modellash bo'yicha ko'nikmalarni rivojlantirish
 
-
 ## Ishlatilgan texnologiyalar
 
 Ushbu loyihada quyidagi texnologiyalar va kutubxonalardan foydalanilgan:
